@@ -106,21 +106,21 @@ consists of and doesn't reflect experience or skill level.
 <br />
 
 <a href="https://github.com/Pankaj1947/github-readme-activity-graph"><img
-    alt="Abhihek Choudhary Activity Graph"
+    alt="Pankaj Kumar Ram Activity Graph"
     src="https://activity-graph.herokuapp.com/graph?username=Pankaj1947&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"
 /></a>
 <br />
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pankaj1947&theme=react&hide_border=true&bg_color=0D1117" alt="Pankaj1947" /></p>
 
-## Connect with me:
+ Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/abhishek-choudhary-06856a230/"
+  <a href="https://www.linkedin.com/in/pankaj-kumar-ram-639437190/"
      target="_blank">
    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" target="_blank"
   /></a>
 </p>
-## ❤ Views and Followers
+ ❤ Views and Followers
 <a href="https://github.com/Pankaj1947/github-profile-views-counter">
   <img src="https://komarev.com/ghpvc/?username=Pankaj1947" />
 </a>
