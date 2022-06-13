@@ -28,7 +28,8 @@
 🥅 *2022 Goals:* Learning new things and contribute more  <br/>
 My Portfolio: https://pankajkumarr.netlify.app/  <br/>
 📫 You can reach me at <br/>
-[chat](pankajkr885@gmail.com) ## 🚀 Languages and Tools:
+[chat](mailto:pankajkr885@gmail.com)   <br/>
+ 🚀 Languages and Tools:
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/html-5.png" />
