@@ -34,7 +34,7 @@
 
 ### Find me here 💻</h3>
 
-[<img src='https://ico.now.sh/github/fff' alt='github' height='40'>](https://github.com/Pankaj1947) [<img src='https://ico.now.sh/gmail/fff' alt='gmail' height='40'>](pankajkr885@gmail.com)[<img src='https://ico.now.sh/linkedin/fff' alt='linkedin' height='40'>](https://https://www.linkedin.com/in/pankaj-kumar-ram-639437190/)
+[<img src='https://ico.now.sh/github/fff' alt='github' height='40'>](https://github.com/Pankaj1947) [<img src='https://ico.now.sh/gmail/fff' alt='gmail' height='40'>](pankajkr885@gmail.com)[<img src='https://ico.now.sh/linkedin/fff' alt='linkedin' height='40'>](https://www.linkedin.com/in/pankaj-kumar-ram-639437190/)
  
  <h3 align="left">🚀Languages and Tools</h3>
 
