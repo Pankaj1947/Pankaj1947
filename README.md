@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/express-Express-blueviolet" />
   <img src="https://img.shields.io/badge/Mongodb-mongodb-brightgreen" />
   <img src="https://img.shields.io/badge/Postman-postman-orange" />
-  <img src="https://img.shields.io/badge/NextJS-nextjs-grey" />
+  <img src="https://img.shields.io/badge/NextJS-nextjs-whitesmoke" />
 </p>    
 
 ## 🙋‍♂️ About Me 
