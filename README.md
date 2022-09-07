@@ -21,7 +21,8 @@
   <img src="https://img.shields.io/badge/express-Express-blueviolet" />
   <img src="https://img.shields.io/badge/Mongodb-mongodb-brightgreen" />
   <img src="https://img.shields.io/badge/NextJS-nextjs-whitesmoke" />
-</p>    
+</p>
+![Github snake svg](https://raw.githubusercontent.com/Pankaj1947/Pankaj1947/snake-svg/github-contribution-grid-snake.svg)
 
 🙋‍♂️ About Me 
 🌱 *I’m currently learning :* Data Structures & Algorithms <br/>
