@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Mongodb-mongodb-brightgreen" />
   <img src="https://img.shields.io/badge/NextJS-nextjs-whitesmoke" />
 </p>
-![snake gif](https://github.com/Pankaj1947/Pankaj1947/blob/output/github-contribution-grid-snake.gif)
+<img alt="snake eating my contribution" src="https://github.com/Pankaj1947/Pankaj1947/blob/output/github-contribution-grid-snake.svg">
 
 🙋‍♂️ About Me 
 🌱 *I’m currently learning :* Data Structures & Algorithms <br/>
