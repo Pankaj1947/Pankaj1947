@@ -27,7 +27,7 @@
 🌱 *I’m currently learning :* Data Structures & Algorithms <br/>
 🤝 I’m looking for help with OpenSource Contributions. Ping me, if you can guide me Would be grateful.  <br/>
 My Portfolio: https://pankajkumarr.netlify.app/  <br/>
-💬 *Ask me about :* JavaScript, React, Redux   <br/>
+💬 *Ask me about :* JavaScript, React, Redux, NodeJS, Express, NextJS  <br/>
 🥅 *2022 Goals:* Learning new things and contribute more  <br/>
 📫 You can reach me at <br/>
 [chat](mailto:pankajkr885@gmail.com)   <br/>
