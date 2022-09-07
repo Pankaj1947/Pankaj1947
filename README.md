@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/Node-node-green" />
   <img src="https://img.shields.io/badge/express-Express-blueviolet" />
   <img src="https://img.shields.io/badge/Mongodb-mongodb-brightgreen" />
-  <img src="https://img.shields.io/badge/Postman-postman-orange" />
   <img src="https://img.shields.io/badge/NextJS-nextjs-whitesmoke" />
 </p>    
 
