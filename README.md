@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/JS-Javascript-red" />
   <img src="https://img.shields.io/badge/React-React-blue" />
-  <img src="https://img.shields.io/badge/Redux-Redux-#7248B6" />
+  <img src="https://img.shields.io/badge/Redux-Redux-purple" />
   <img src="https://img.shields.io/badge/Node-node-green" />
   <img src="https://img.shields.io/badge/express-Express-blueviolet" />
   <img src="https://img.shields.io/badge/Mongodb-mongodb-brightgreen" />
