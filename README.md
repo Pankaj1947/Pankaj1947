@@ -23,14 +23,14 @@
   <img src="https://img.shields.io/badge/NextJS-nextjs-whitesmoke" />
 </p>    
 
-## 🙋‍♂️ About Me 
+🙋‍♂️ About Me 
 🌱 *I’m currently learning :* Data Structures & Algorithms <br/>
 🤝 I’m looking for help with OpenSource Contributions. Ping me, if you can guide me Would be grateful.  <br/>
-My Portfolio: https://pankajkumarr.netlify.app/  <br/>
 💬 *Ask me about :* JavaScript, React, Redux, NodeJS, Express, NextJS  <br/>
 🥅 *2022 Goals:* Learning new things and contribute more  <br/>
 📫 You can reach me at <br/>
-[chat](mailto:pankajkr885@gmail.com)   <br/>
+[Mail](mailto:pankajkr885@gmail.com)   <br/>
+My Portfolio: https://pankajkumarr.netlify.app/  <br/>
  🚀 Languages and Tools:
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank">
