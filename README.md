@@ -24,14 +24,14 @@
 </p>
 <img alt="snake eating my contribution" src="https://github.com/Pankaj1947/Pankaj1947/blob/output/github-contribution-grid-snake.svg">
 
-🙋‍♂️ About Me 
-🌱 *I’m currently learning :* Data Structures & Algorithms <br/>
-🤝 I’m looking for help with OpenSource Contributions. Ping me, if you can guide me Would be grateful.  <br/>
-💬 *Ask me about :* JavaScript, React, Redux, NodeJS, Express, NextJS  <br/>
-🥅 *2022 Goals:* Learning new things and contribute more  <br/>
-📫 You can reach me at <br/>
-[Mail](mailto:pankajkr885@gmail.com)   <br/>
-My Portfolio: https://pankajkumarr.netlify.app/  <br/>
+<p>🙋‍♂️ About Me </p>
+<p>🌱 I’m currently learning MERN Stack and Data Structures & Algorithms</p>
+<p>💬 Ask me about : JavaScript, React, Redux, NodeJS, Express, NextJS.</p>
+<p>🥅 2022 Goals: Start working in reputed company as Full Stack developer</p>
+<p>📫 Reach me at <b>pankajkr885@gmail.com</b></p>
+<p>My Portfolio: https://pankajkumarr.netlify.app/</p>
+### Find me here 💻</h3>
+[<img src='https://ico.now.sh/github/fff' alt='github' height='40'>](https://github.com/Pankaj1947) [<img src='https://ico.now.sh/gmail/fff' alt='gmail' height='40'>](pankajkr885@gmail.com) [<img src='https://ico.now.sh/linkedin/fff' alt='linkedin' height='40'>](https://https://www.linkedin.com/in/pankaj-kumar-ram-639437190/)
  🚀 Languages and Tools:
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank">
