@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/JS-Javascript-red" />
   <img src="https://img.shields.io/badge/React-React-blue" />
   <img src="https://img.shields.io/badge/Redux-Redux-purple" />
+  <img src="https://img.shields.io/badge/TS-TypeScript-blue" />
   <img src="https://img.shields.io/badge/Node-node-green" />
   <img src="https://img.shields.io/badge/express-Express-blueviolet" />
   <img src="https://img.shields.io/badge/Mongodb-mongodb-brightgreen" />
@@ -73,19 +74,11 @@ consists of and doesn't reflect experience or skill level.
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pankaj1947&theme=react&hide_border=true&bg_color=0D1117" alt="Pankaj1947" /></p>
 
- Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/pankaj-kumar-ram-639437190/"
-     target="_blank">
-   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" target="_blank"
-  /></a>
-</p>
- ❤ Views and Followers
-<a href="https://github.com/Pankaj1947/github-profile-views-counter">
-  <img src="https://komarev.com/ghpvc/?username=Pankaj1947" />
-</a>
-<a href="https://github.com/Pankaj1947?tab=followers"
-  ><img
-    src="https://img.shields.io/github/followers/Pankaj1947?label=Followers&style=social"
-    alt="GitHub Badge"
-/></a>
+
+ <div align="center">
+    <h3>❤ Views and Followers</h3>
+    <a href="https://github.com/Pankaj1947/github-profile-views-counter">
+      <img src="https://komarev.com/ghpvc/?username=Pankaj1947" />
+    </a>
+    <a href="https://github.com/Pankaj1947?tab=followers"><img src="https://img.shields.io/github/followers/Pankaj1947?label=Followers&style=social" alt="GitHub Badge"/></a>
+</div>
