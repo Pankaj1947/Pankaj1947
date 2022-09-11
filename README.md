@@ -27,7 +27,7 @@
 
 <p>🙋‍♂️ About Me </p>
 <p>🌱 I’m currently learning MERN Stack and Data Structures & Algorithms</p>
-<p>💬 Ask me about : JavaScript, React, Redux, NodeJS, Express, NextJS.</p>
+<p>💬 Ask me about : JavaScript, React, Redux, NodeJS, Express and NextJS.</p>
 <p>🥅 2022 Goals: Start working in reputed company as Full Stack developer</p>
 <p>📫 Reach me at <b>pankajkr885@gmail.com</b></p>
 <p>My Portfolio: https://pankajkumarr.netlify.app/</p>
