@@ -1,9 +1,5 @@
 <h1 align="center">
-  Hi
-  <img
-    src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
-    width="30px" height="30px"
-  />, I'm Pankaj Kumar Ram
+  नमस्ते 🙏 My name is Pankaj Kumar Ram
 </h1>
 <h3 align="center">
   I'm a Full Stack Web Developer with hands-on experience in designing,
