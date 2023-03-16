@@ -62,7 +62,7 @@ consists of and doesn't reflect experience or skill level.
 
 <a href="https://github.com/Pankaj1947/github-readme-activity-graph"></a>
 <br/>
-[![Pankaj's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pankaj1947&theme=github-compact)](https://github.com/Pankaj1947/github-readme-activity-graph)
+[![Pankaj's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pankaj1947&theme=github-compact&area=true)](https://github.com/Pankaj1947/github-readme-activity-graph)
 <br />
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pankaj1947&theme=react&hide_border=true&bg_color=0D1117" alt="Pankaj1947" /></p>
